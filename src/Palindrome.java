@@ -48,4 +48,8 @@ public class Palindrome {
         phrase = keyboard.nextLine();
     }
     
+    public static void MyNameJeff(){
+        System.out.println("My name is JJJJEEEEEEEEEEEEFFFFFFFFFFFFFF!!!!!");
+    }
+    
 }
